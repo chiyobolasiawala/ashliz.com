@@ -2191,7 +2191,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .p1-gradient-bg, .primary-btn, .home-about-area .home-about-right .primary-btn, .single-unique-product:hover .primary-btn, .faq-left .card-header, .single-footer-widget .click-btn, .generic-banner {
   background-image: -moz-linear-gradient(0deg, #235ee7 0%, #4ae7fa 100%);
-  background-image: -webkit-linear-gradient(0deg, #235ee7 0%, #4ae7fa 100%);
+  background-image: -webkit-linear-gradient(0deg, #26368b 0%, #019be0 100%);
   background-image: -ms-linear-gradient(0deg, #235ee7 0%, #4ae7fa 100%);
 }
 
